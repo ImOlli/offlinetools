@@ -1,0 +1,10 @@
+name: OfflineTools
+version: '${project.version}'
+main: de.imolli.offlinetools.OfflineToolsPlugin
+api-version: 1.18
+prefix: OfflineTools
+authors: [ ImOlli ]
+description: A plugin that gives you features for offline players.
+
+commands:
+  offlinelocation:
